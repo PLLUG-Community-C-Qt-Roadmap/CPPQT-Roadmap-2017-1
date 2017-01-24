@@ -2,5 +2,5 @@
 
 [![Join the chat at https://gitter.im/PLLUG/CPPQT-Roadmap-2017-1](https://badges.gitter.im/PLLUG/CPPQT-Roadmap-2017-1.svg)](https://gitter.im/PLLUG/CPPQT-Roadmap-2017-1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Site ](https://img.shields.io/badge/site%3A-https%3A%2F%2Fpllug.github.io%2FCPPQT--Roadmap--2017--1%2F-green.svg)](https://pllug.github.io/CPPQT-Roadmap-2017-1/)
-[![Site ](https://img.shields.io/badge/site%3A-pllug.org.ua-green.svg)](https://pllug.github.io/CPPQT-Roadmap-2017-1/)
+[![Site ](https://img.shields.io/badge/site%3A-pllug.org.ua-green.svg)](http://pllug.org.ua)
 [![Site ](https://img.shields.io/badge/site%3A-https%3A%2F%2Fwww.facebook.com%2FPLLUGcommunity%2F-blue.svg)](https://www.facebook.com/PLLUGcommunity)
