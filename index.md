@@ -4,6 +4,8 @@ layout: default
 
 [Часті питання](faq) / [Дорожня карта](roadmap) / [Корисні посилання](links)
 
+## Матеріали та контакти
+
 **Чат для учасників на Gitter: [![Join the chat at https://gitter.im/PLLUG/CPPQT-Roadmap-2017-1](https://badges.gitter.im/PLLUG/CPPQT-Roadmap-2017-1.svg)](https://gitter.im/PLLUG/CPPQT-Roadmap-2017-1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)**
 
 **Книга з навчальними матеріалами:[The PLLUG C++\Qt Roadmap Book](https://pllug.gitbooks.io/the-pllug-c-qt-roadmap-book/content/)**
