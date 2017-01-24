@@ -14,5 +14,8 @@ layout: default
 
 **Внести свої пропозиції стосовно зібрань напряму, запропонувати тему зібрання чи ідею проекту, спонукати лекторів та мейнейнерів напряму до дій можна створивши тікет у до нашого репозиторію на GitHub: [Створити тікет](https://github.com/PLLUG/CPPQT-Roadmap-2017-1/issues)**
 
+[![Site ](https://img.shields.io/badge/site%3A-pllug.org.ua-green.svg)](https://pllug.github.io/CPPQT-Roadmap-2017-1/)
+[![Site ](https://img.shields.io/badge/site%3A-https%3A%2F%2Fwww.facebook.com%2FPLLUGcommunity%2F-blue.svg)](https://www.facebook.com/PLLUGcommunity)
+
 
 
