@@ -18,5 +18,9 @@ layout: default
 [![Facebook ](https://img.shields.io/badge/Facebook%3A-www.facebook.com%2FPLLUGcommunity-blue.svg)](https://www.facebook.com/PLLUGcommunity)
 [![Site ](https://img.shields.io/badge/e--mail%3A-info%40pllug.org.ua-orange.svg)](mailto:info@pllug.org.ua)
 
+## Як зареєструватися на участь?
+Перед реєстрацією, прочитай уважно відповіді на часті питання, особливо [Що потрібно буде робити?](faq) та [Як буде проходити навчання?](faq)
+
+Якщо зі всім є згода - заповнюй форму реєстрації: [https://goo.gl/forms/TEtt0gR0OH0asLc42](https://goo.gl/forms/TEtt0gR0OH0asLc42)
 
 
